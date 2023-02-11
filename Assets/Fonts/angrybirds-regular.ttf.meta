@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1b04fddc03598334dba03ce66a86556b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AngryBirds
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f58a26b7e1e9c844eb14e75f7309d25d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
