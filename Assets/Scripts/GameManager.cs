@@ -59,6 +59,7 @@ public class GameManager : MonoBehaviour
 
     public void ReloadLevel()
     {
+        InterstitialAd.instance.ShowAd();
         SceneManager.LoadScene("Game");
     }
 
